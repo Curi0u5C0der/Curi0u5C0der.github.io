@@ -1,6 +1,6 @@
 ## Github Page
 
-Hey everyone
+Hey everyone!
 
 ## Recent Posts
 
