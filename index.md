@@ -1,7 +1,15 @@
-## Github Page
+## Systems Programming and Design Notes
 
-Hey everyone!
+Hello everyone! I intend to share some of the notes I'll be taking during my systems programming studies, in order to have a useful furture reference for myself. Let's see how it goes.
 
-## Recent Posts
 
-- [Post 1]({% post_url 2023-04-28-post-1 %})
+## Linux Kernel 
+
+- [Synchronization in Linux Kernel - Atomic Operations]({% post_url 2023-04-28-synchronization-atomic-operations %})
+- [Synchronization in Linux Kernel - Mutex (Mutual Exclusion)]({% post_url 2023-04-28-synchronization-mutex %})
+
+
+## Data Sturctures and Algorithms
+
+- [Graph Datastructure Introduction]({% post_url 2023-04-30-graph-data-structure %})
+- [Graph Datastructure Representation]({% post_url 2023-04-30-graph-data-structure-representation %})
